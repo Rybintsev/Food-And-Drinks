@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: 'Source Sans Pro - bold';
+  font-family: 'Source Sans Pro - Bold';
   src: url("../fonts/SourceSansPro-Bold.eot");
   src: local("☺"), url("../fonts/SourceSansPro-Bold.woff") format("woff"), url("../fonts/SourceSansPro-Bold.ttf") format("truetype"), url("../fonts/SourceSansPro-Bold.svg") format("svg");
   font-weight: 700;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-  font-family: 'Source Sans Pro - bold - Semibold';
+  font-family: 'Source Sans Pro - Bold - Semibold';
   src: url("../fonts/SourceSansPro-Semibold.eot");
   src: local("☺"), url("../fonts/SourceSansPro-Semibold.woff") format("woff"), url("../fonts/SourceSansPro-Semibold.ttf") format("truetype"), url("../fonts/SourceSansPro-Semibold.svg") format("svg");
   font-weight: 600;
@@ -297,7 +297,7 @@ body.lock {
   border-radius: 0 10px 0 10px;
   background-color: #ff3a2d;
   color: #ffffff;
-  font-family: "Source Sans Pro - bold";
+  font-family: "Source Sans Pro - Bold";
   font-size: 14px;
   font-weight: 700;
   line-height: 15px;
@@ -369,7 +369,7 @@ body.lock {
 
 .item-menu__list a {
   color: #222222;
-  font-family: "Source Sans Pro - bold";
+  font-family: "Source Sans Pro - Bold";
   font-size: 14px;
   font-weight: 700;
   line-height: 15px;
@@ -541,7 +541,7 @@ body.lock {
 }
 
 .mainscreen__search input {
-  font-family: "Source Sans Pro - bold - Semibold";
+  font-family: "Source Sans Pro - Bold - Semibold";
   background-color: rgba(255, 255, 255, 0);
   padding: 0px 0px 0px 15px;
 }
